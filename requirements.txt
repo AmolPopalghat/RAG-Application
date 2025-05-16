@@ -1,7 +1,6 @@
 streamlit==1.31.0
-langchain==0.1.1
-langchain-community==0.0.13
-langchain-core==0.1.27  # Add this line with an older version
+langchain==0.0.354  # Use an older version that's compatible
+langchain-community==0.0.10
 langchain-text-splitters==0.0.1
 faiss-cpu==1.7.4
 pypdf==3.17.1
