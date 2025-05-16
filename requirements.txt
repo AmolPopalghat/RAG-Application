@@ -1,9 +1,10 @@
 streamlit==1.25.0
 numpy==1.24.3
 langchain==0.0.308
-langchain-community==0.0.28
-langchain-text-splitters==0.0.24
-scikit-learn==1.3.0
-pypdf==3.16.3
+langchain-community==0.0.26
+langchain-text-splitters==0.0.12
+scikit-learn==1.2.2
+pypdf==3.15.1
 python-docx==0.8.11
 docx2txt==0.8
+setuptools>=58.0.0  # Ensure distutils is available
